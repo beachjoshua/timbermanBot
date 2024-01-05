@@ -1,3 +1,3 @@
 # timbermanBot
-Bot for timberman game using opencv
-Very finicky, couldn't find any real good needle images, or needle values
+Code demonstration using LDplayer: https://youtu.be/a18FnEVr1c4
+Timberman bot coded in python, using opencv, pyautogui, mss, and numpy
